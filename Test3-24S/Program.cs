@@ -13,5 +13,14 @@ namespace Test3_24S
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
         }
+        public static void Main(string[] args)
+        {
+
+            
+            
+
+           
+        }
     }
+
 }
